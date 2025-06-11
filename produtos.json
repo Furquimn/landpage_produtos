@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "imagem": "https://cdn.dooca.store/246/products/100-1800-cho_495x495+fill_ffffff+crop_center.png?v=1680705564&webp=0",
+        "titulo": "Produto 1",
+        "descricao": "Faça a descrição do Produto",
+        "link": "https://www.mercadolivre.com.br/creatina-300g-pura-100-monohidratada-max-titanium-sabor-sem-sabor/p/MLB37996313?highlight=true&headerTopBrand=true#polycard_client=search-nordic&searchVariation=MLB37996313&wid=MLB3699685804&position=19&search_layout=stack&type=product&tracking_id=a13afe44-fee2-462b-939c-78cabff6379a&sid=search"
+    },
+    {
+        "id": 2,
+        "imagem": "https://cdn.dooca.store/246/products/100-1800-cho_495x495+fill_ffffff+crop_center.png?v=1680705564&webp=0",
+        "titulo": "Produto 1",
+        "descricao": "Faça a descrição do Produto",
+        "link": "https://www.mercadolivre.com.br/creatina-300g-pura-100-monohidratada-max-titanium-sabor-sem-sabor/p/MLB37996313?highlight=true&headerTopBrand=true#polycard_client=search-nordic&searchVariation=MLB37996313&wid=MLB3699685804&position=19&search_layout=stack&type=product&tracking_id=a13afe44-fee2-462b-939c-78cabff6379a&sid=search"
+    }
+]

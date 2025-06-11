@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form id="form_produto" enctype="multipart/form-data">
+        <h2>Insira um novo produto</h2>
+
+        <div class="form_container">
+            <div class="form_box">
+                <label for="titulo">Insira um título para seu produto</label>
+                <input type="text" id="produto_titulo" name="titulo" class="form_input" placeholder="nome do produto" required>
+            </div>
+
+            <div class="form_box">
+                <label for="descricao">Insira uma descrição para seu produto</label>
+                <input type="text" id="produto_descricao" name="descricao" class="form_input" placeholder="descreva o produto" required>
+            </div>
+
+            <div class="form_box">
+                <label for="link">Insira o link do produto</label>
+                <input type="text" id="produto_link" name="link" class="form_input" placeholder="Insira o link" required>
+            </div>
+
+            <div class="form_box">
+                <label for="imagem">Insira a imagem do produto</label>
+                <input type="file" id="produto_imagem" name="imagem" class="form_input" accept="image/* required ">
+            </div>
+        </div>
+
+        <button type="submit">Insira o novo produto</button>
+    </form>
+
+    <div id="feedback_sistema"></div>
+
+    <h2>Produtos cadastrados</h2>
+
+    <div id="produtos_container">
+        
+    </div>
+</body>
+
+</html>
